@@ -1,91 +1,59 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dmitrii Kozlov
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+# Dmitrii Kozlov
+Game Developer
 
 ## Currently
 
-Standing on the shoulders of giants
+At [Improbable](https://improbable.io), working on making multiplayer game creation easier on the developers, letting you focus on achieving your gameplay ambitions while we take care of the scale and synchronization.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Gameplay and network development for PC/Console games.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013 - 2017`
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**Bachelor of Science**
 
-- Sizar
+Kazan Federal University, Kazan (Russia)
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Work History
 
-- Fellow
+**Improbable**, London, United Kingdom / 2020 - Present
 
+Developing and supporting SpatialGDK for Unreal - an Unreal Engine integration for Improbable's SpatialOS networking offering.
 
+* Developing new functionality to provide better functionality in the context of a distributed system
+* Refactoring existing functionality to reinforce an evolving vision of the software
+* Providing support for SpatialGDK- and SpatialOS related customer issues
 
-## Awards
+**Vizor Games**, Minsk, Belarus / 2017 - 2020
+Went from a gameplay developer to a gameplay lead to an R&D dev on company's first PC and Consoles title - <https://bloodofheroes.online>
 
-`2012`
-President, *Royal Society*, London, UK
+* Developing base features and systems, including gameplay networking
+* Managing a team of programmers in a growing project
+* Code and game design documentation review
+* Communicating with technical and non-technical teams
+* Improving and supporting development processes
+* Integrating with internal backend
 
-Associate, *French Academy of Science*, Paris, France
+**GD Forge**, Kazan, Russia / 2015 - 2017
 
+Outsource game development, mostly VR and mobile
 
+Project highlights:
 
-## Publications
+* Multiplayer VR quest for six people using Leap Motion, Unity Legacy Networking and Oculus Rift
+* A set of multiplayer demos for Finch Shift controller utilizing Samsung Gear VR and Bolt Networking for Unity
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Contact
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+<dmitrij.kozlov.h@gmail.com>
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: December 2021 -->
