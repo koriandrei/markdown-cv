@@ -13,14 +13,6 @@ At [Improbable](https://improbable.io), working on making multiplayer game creat
 
 Gameplay and network development for PC/Console games.
 
-## Education
-
-`2013 - 2017`
-
-**Bachelor of Science**
-
-Kazan Federal University, Kazan (Russia)
-
 ## Work History
 
 **Improbable**, London, United Kingdom / 2020 - Present
@@ -50,6 +42,14 @@ Project highlights:
 
 * Multiplayer VR quest for six people using Leap Motion, Unity Legacy Networking and Oculus Rift
 * A set of multiplayer demos for Finch Shift controller utilizing Samsung Gear VR and Bolt Networking for Unity
+
+## Education
+
+`2013 - 2017`
+
+**Bachelor of Science**
+
+Kazan Federal University, Kazan (Russia)
 
 ## Contact
 
