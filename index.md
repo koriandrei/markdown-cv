@@ -32,6 +32,7 @@ Developing and supporting SpatialGDK for Unreal - an Unreal Engine integration f
 * Providing support for SpatialGDK- and SpatialOS related customer issues
 
 **Vizor Games**, Minsk, Belarus / 2017 - 2020
+
 Went from a gameplay developer to a gameplay lead to an R&D dev on company's first PC and Consoles title - <https://bloodofheroes.online>
 
 * Developing base features and systems, including gameplay networking
