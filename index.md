@@ -7,25 +7,33 @@ Game Developer
 
 ## Currently
 
-At [Improbable](https://improbable.io), working on making multiplayer game creation easier on the developers, letting you focus on achieving your gameplay ambitions while we take care of the scale and synchronization.
+At [PlayStation London Studio](https://playstationlondonstudio.com), making a cooperative fantasy action in a custom C++ engine.
 
 ### Specialized in
 
-Gameplay and network development for PC/Console games.
+Gameplay and network development for PC and Console games.
 
 ## Work History
 
-**Improbable**, London, United Kingdom / 2020 - Present
+**PlayStation London Studio**, London, United Kingdom / 2022 - Present
+
+Working on a new multiplayer cooperative Game as a Service (GaaS) title for PlayStation in a custom C++ ECS-oriented engine as a member of the Gameplay Tech team.
+
+* Investigated and implemented ways to improve and verify deterministic rollback simulation at the engine's core.
+* Owned multiple features, used by gameplay programmers and designers in focused strike teams.
+* Identified, resolved and provided guidance on system non-determinism stemming from parallel execution, cross-platform floating point operations and undefined behavior.
+
+**Improbable**, London, United Kingdom / 2020 - 2022
 
 Developing and supporting SpatialGDK for Unreal - an Unreal Engine integration for Improbable's SpatialOS networking offering.
 
-* Developing new functionality to provide better functionality in the context of a distributed system
+* Developing new functionality in a distributed SpatialOS environment
 * Refactoring existing functionality to reinforce an evolving vision of the software
 * Providing support for SpatialGDK- and SpatialOS related customer issues
 
 **Vizor Games**, Minsk, Belarus / 2017 - 2020
 
-Went from a gameplay developer to a gameplay lead to an R&D dev on company's first PC and Consoles title - <https://bloodofheroes.online>
+Went from a gameplay developer to a gameplay lead to an R&D dev on the company's first PC and Consoles title - <https://bloodofheroes.online>
 
 * Developing base features and systems, including gameplay networking
 * Managing a team of programmers in a growing project
@@ -57,4 +65,4 @@ Kazan Federal University, Kazan (Russia)
 
 <!-- ### Footer
 
-Last updated: December 2021 -->
+Last updated: March 2024 -->
