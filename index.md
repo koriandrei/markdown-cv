@@ -17,11 +17,11 @@ Gameplay and network development for PC and Console games.
 
 **PlayStation London Studio**, London, United Kingdom / 2022 - Present
 
-Working on a new multiplayer cooperative Game as a Service (GaaS) title for PlayStation in a custom C++ ECS-oriented engine as a member of the Gameplay Tech team.
+Working on a new multiplayer cooperative Game as a Service (GaaS) title for PlayStation in a custom C++ ECS-oriented engine as a member of the Gameplay Tech team and a resident rollback expert.
 
-* Investigated and implemented ways to improve and verify deterministic rollback simulation at the engine's core.
+* Improved engine rollback functionality to allow for responsive multiplayer gameplay.
 * Owned multiple features, used by gameplay programmers and designers in focused strike teams.
-* Identified, resolved and provided guidance on system non-determinism stemming from parallel execution, cross-platform floating point operations and undefined behavior.
+* Identified, resolved and provided guidance on system non-determinism.
 
 **Improbable**, London, United Kingdom / 2020 - 2022
 
@@ -33,13 +33,12 @@ Developing and supporting SpatialGDK for Unreal - an Unreal Engine integration f
 
 **Vizor Games**, Minsk, Belarus / 2017 - 2020
 
-Went from a gameplay developer to a gameplay lead to an R&D dev on the company's first PC and Consoles title - <https://bloodofheroes.online>
+Went from a gameplay developer to a gameplay lead to an R&D dev on the company's first PC and Consoles title
 
 * Developing base features and systems, including gameplay networking
 * Managing a team of programmers in a growing project
 * Code and game design documentation review
 * Communicating with technical and non-technical teams
-* Improving and supporting development processes
 * Integrating with internal backend
 
 **GD Forge**, Kazan, Russia / 2015 - 2017
@@ -57,7 +56,7 @@ Project highlights:
 
 **Bachelor of Science**
 
-Kazan Federal University, Kazan (Russia)
+Kazan Federal University, Kazan, Russia
 
 ## Contact
 
