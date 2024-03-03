@@ -17,7 +17,9 @@ Gameplay and network development for PC and Console games.
 
 ## Work History
 
-**PlayStation London Studio** - **Principal Online Programmer**, London, United Kingdom / 2022 - Present
+`PlayStation London Studio`
+
+**Principal Online Programmer**, London, United Kingdom / 2022 - Present
 
 Working on a new multiplayer cooperative Game as a Service (GaaS) title for PlayStation in a custom C++ ECS-oriented engine as a member of the Gameplay Tech team and a resident rollback expert.
 
@@ -25,7 +27,9 @@ Working on a new multiplayer cooperative Game as a Service (GaaS) title for Play
 * Owned multiple features, used by gameplay programmers and designers in focused strike teams
 * Empowered gameplay engineers to ensure their code is deterministic, alowing for high-quality multiplayer experience
 
-**Improbable** - **Senior Unreal Engineer**, London, United Kingdom / 2020 - 2022
+`Improbable`
+
+**Senior Unreal Engineer**, London, United Kingdom / 2020 - 2022
 
 Developing and supporting SpatialGDK for Unreal - an Unreal Engine integration for Improbable's SpatialOS multiplayer networking offering.
 
@@ -33,7 +37,9 @@ Developing and supporting SpatialGDK for Unreal - an Unreal Engine integration f
 * Reworking existing functionality to support the evolving product
 * Providing support for customer issues
 
-**Vizor Games** - **Lead Gameplay Developer**, Minsk, Belarus / 2017 - 2020
+`Vizor Games`
+
+**Lead Gameplay Developer**, Minsk, Belarus / 2017 - 2020
 
 * Developing base features and systems, including gameplay networking
 * Managing a growing team of programmers
@@ -41,7 +47,9 @@ Developing and supporting SpatialGDK for Unreal - an Unreal Engine integration f
 * Communicating with technical and non-technical teams
 * Integrating with internal backend
 
-**GD Forge** - **Lead Developer**, Kazan, Russia / 2015 - 2017
+`GD Forge`
+
+**Lead Developer**, Kazan, Russia / 2015 - 2017
 
 Outsource game development, mostly VR and mobile
 
