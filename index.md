@@ -5,12 +5,10 @@ title: Dmitrii Kozlov
 # Dmitrii Kozlov
 Game Developer
 
-### Contact
-
+### Email
 <dmitrij.kozlov.h@gmail.com>
 
 ## Currently
-
 At [PlayStation London Studio](https://playstationlondonstudio.com), making a cooperative fantasy action in a custom C++ engine.
 
 ### Specialized in
@@ -23,24 +21,24 @@ Gameplay and network development for PC and Console games.
 
 Working on a new multiplayer cooperative Game as a Service (GaaS) title for PlayStation in a custom C++ ECS-oriented engine as a member of the Gameplay Tech team and a resident rollback expert.
 
-* Improved engine rollback functionality to allow for responsive multiplayer gameplay.
-* Owned multiple features, used by gameplay programmers and designers in focused strike teams.
-* Identified, resolved and provided guidance on system non-determinism.
+* Improved engine rollback functionality to maintain responsive multiplayer gameplay
+* Owned multiple features, used by gameplay programmers and designers in focused strike teams
+* Empowered gameplay engineers to ensure their code is deterministic, alowing for high-quality multiplayer experience
 
 **Improbable**, London, United Kingdom / 2020 - 2022
 
-Developing and supporting SpatialGDK for Unreal - an Unreal Engine integration for Improbable's SpatialOS networking offering.
+Developing and supporting SpatialGDK for Unreal - an Unreal Engine integration for Improbable's SpatialOS multiplayer networking offering.
 
-* Developing new functionality in a distributed SpatialOS environment
-* Refactoring existing functionality to reinforce an evolving vision of the software
-* Providing support for SpatialGDK- and SpatialOS related customer issues
+* Developing new functionality for the distributed environment
+* Reworking existing functionality to support the evolving product
+* Providing support for customer issues
 
 **Vizor Games**, Minsk, Belarus / 2017 - 2020
 
 Went from a gameplay developer to a gameplay lead to an R&D dev on the company's first PC and Consoles title
 
 * Developing base features and systems, including gameplay networking
-* Managing a team of programmers in a growing project
+* Managing a growing team of programmers
 * Code and game design documentation review
 * Communicating with technical and non-technical teams
 * Integrating with internal backend
