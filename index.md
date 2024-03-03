@@ -5,6 +5,10 @@ title: Dmitrii Kozlov
 # Dmitrii Kozlov
 Game Developer
 
+### Contact
+
+<dmitrij.kozlov.h@gmail.com>
+
 ## Currently
 
 At [PlayStation London Studio](https://playstationlondonstudio.com), making a cooperative fantasy action in a custom C++ engine.
@@ -57,10 +61,6 @@ Project highlights:
 **Bachelor of Science**
 
 Kazan Federal University, Kazan, Russia
-
-## Contact
-
-<dmitrij.kozlov.h@gmail.com>
 
 <!-- ### Footer
 
