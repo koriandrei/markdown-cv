@@ -21,9 +21,9 @@ Gameplay and network development for PC and Console games.
 
 Working on a new multiplayer cooperative Game as a Service (GaaS) title for PlayStation in a custom C++ ECS-oriented engine as a member of the Gameplay Tech team and a resident rollback expert.
 
-* Improved engine rollback functionality to maintain responsive multiplayer gameplay
-* Owned multiple features, used by gameplay programmers and designers in focused strike teams
+* Improving engine rollback functionality to maintain responsive multiplayer gameplay
 * Empowered gameplay engineers to ensure their code is deterministic, alowing for high-quality multiplayer experience
+* Tweaked network packets to reduce size and improve correctness
 
 **Improbable** - **Senior Unreal Engineer**, London, United Kingdom<br>2020 - 2022
 
@@ -37,7 +37,7 @@ Developing and supporting SpatialGDK for Unreal - an Unreal Engine integration f
 
 * Developing base features and systems, including gameplay networking
 * Managing a growing team of programmers
-* Code and game design documentation review
+* Implementing responsive network synchronized movement and animations
 * Communicating with technical and non-technical teams
 * Integrating with internal backend
 
