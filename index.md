@@ -17,6 +17,14 @@ Gameplay and network development for PC and Console games.
 
 ## Work History
 
+**Meta** - **Senior Software Engineer**, London, United Kingdom<br>2022 - Present
+
+Horizon Worlds engineer working on support for large-scale synchronous events in a custom C++ ECS-oriented engine as a member of Crowd&Content team and a resident networking expert.
+
+* Implemented delta compression for network traffic
+* Implemented cross-server replication to show players from other servers
+* Continuously explored and maintained server performance
+
 **PlayStation London Studio** - **Principal Online Programmer**, London, United Kingdom<br>2022 - Present
 
 Working on a new multiplayer cooperative Game as a Service (GaaS) title for PlayStation in a custom C++ ECS-oriented engine as a member of the Gameplay Tech team and a resident rollback expert.
