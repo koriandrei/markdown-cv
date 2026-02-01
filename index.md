@@ -17,7 +17,9 @@ Gameplay and network development for PC and Console games.
 
 ## Work History
 
-**Meta** - **Senior Software Engineer**, London, United Kingdom<br>2024 - Present
+**Meta** - **Software Engineer**, London, United Kingdom
+
+`2024 - Present`
 
 Developing networking features for a custom C++ ECS runtime, enabling scaling to high CCU.
 
@@ -25,7 +27,9 @@ Developing networking features for a custom C++ ECS runtime, enabling scaling to
 * Implemented cross-server replication to show players from other servers
 * Continuously explored and maintained server performance
 
-**PlayStation London Studio** - **Principal Online Programmer**, London, United Kingdom<br>2022 - 2024
+**PlayStation London Studio** - **Principal Online Programmer**, London, United Kingdom
+
+`2022 - 2024`
 
 Working on a new multiplayer cooperative Game as a Service (GaaS) title for PlayStation in a proprietary C++ engine as a member of the Gameplay Tech team and a resident rollback expert.
 
@@ -33,7 +37,9 @@ Working on a new multiplayer cooperative Game as a Service (GaaS) title for Play
 * Empowered gameplay engineers to ensure their code is deterministic, alowing for high-quality multiplayer experience
 * Optimized real-time synchronization protocol to reduce size and improve correctness
 
-**Improbable** - **Senior Unreal Engineer**, London, United Kingdom<br>2020 - 2022
+**Improbable** - **Senior Unreal Engineer**, London, United Kingdom
+
+`2020 - 2022`
 
 Developing and supporting SpatialGDK for Unreal - an integration for Improbable's SpatialOS multiplayer networking platform.
 
@@ -41,7 +47,9 @@ Developing and supporting SpatialGDK for Unreal - an integration for Improbable'
 * Reworking existing functionality to support the evolving product
 * Providing support for customer issues
 
-**Vizor Games** - **Lead Gameplay Developer**, Minsk, Belarus<br>2017 - 2020
+**Vizor Games** - **Lead Gameplay Developer**, Minsk, Belarus
+
+`2017 - 2020`
 
 * Developing base features and systems, including gameplay systems and networking
 * Managing a growing team of programmers
@@ -49,7 +57,9 @@ Developing and supporting SpatialGDK for Unreal - an integration for Improbable'
 * Communicating with technical and non-technical teams
 * Integrating with internal backend
 
-**GD Forge** - **Lead Developer**, Kazan, Russia<br>2015 - 2017
+**GD Forge** - **Lead Developer**, Kazan, Russia
+
+`2015 - 2017`
 
 Outsource game development, mostly VR and mobile
 
