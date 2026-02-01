@@ -19,7 +19,7 @@ Gameplay and network development for PC and Console games.
 
 **Meta** - **Senior Software Engineer**, London, United Kingdom<br>2024 - Present
 
-Horizon Worlds engineer improving networking for large-scale synchronous events in a custom C++ ECS-oriented engine.
+Horizon Worlds engineer implementing network features for high CCU in a custom C++ ECS-oriented engine.
 
 * Implemented delta compression for network traffic
 * Implemented cross-server replication to show players from other servers
@@ -27,15 +27,15 @@ Horizon Worlds engineer improving networking for large-scale synchronous events 
 
 **PlayStation London Studio** - **Principal Online Programmer**, London, United Kingdom<br>2022 - 2024
 
-Working on a new multiplayer cooperative Game as a Service (GaaS) title for PlayStation in a custom C++ ECS-oriented engine as a member of the Gameplay Tech team and a resident rollback expert.
+Working on a new multiplayer cooperative Game as a Service (GaaS) title for PlayStation in a proprietary C++ engine as a member of the Gameplay Tech team and a resident rollback expert.
 
-* Improving engine rollback functionality to maintain responsive multiplayer gameplay
+* Improving rollback functionality to maintain responsive multiplayer gameplay
 * Empowered gameplay engineers to ensure their code is deterministic, alowing for high-quality multiplayer experience
-* Tweaked network packets to reduce size and improve correctness
+* Optimized real-time synchronization protocol to reduce size and improve correctness
 
 **Improbable** - **Senior Unreal Engineer**, London, United Kingdom<br>2020 - 2022
 
-Developing and supporting SpatialGDK for Unreal - an Unreal Engine integration for Improbable's SpatialOS multiplayer networking offering.
+Developing and supporting SpatialGDK for Unreal - an integration for Improbable's SpatialOS multiplayer networking platform.
 
 * Developing new functionality for the distributed environment
 * Reworking existing functionality to support the evolving product
@@ -43,9 +43,9 @@ Developing and supporting SpatialGDK for Unreal - an Unreal Engine integration f
 
 **Vizor Games** - **Lead Gameplay Developer**, Minsk, Belarus<br>2017 - 2020
 
-* Developing base features and systems, including gameplay networking
+* Developing base features and systems, including gameplay systems and networking
 * Managing a growing team of programmers
-* Implementing responsive network synchronized movement and animations
+* Implementing responsive synchronized movement and animations
 * Communicating with technical and non-technical teams
 * Integrating with internal backend
 
