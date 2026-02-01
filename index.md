@@ -19,7 +19,7 @@ Gameplay and network development for PC and Console games.
 
 **Meta** - **Senior Software Engineer**, London, United Kingdom<br>2024 - Present
 
-Horizon Worlds engineer implementing network features for high CCU in a custom C++ ECS-oriented engine.
+Developing networking features for a custom C++ ECS runtime, enabling scaling to high CCU.
 
 * Implemented delta compression for network traffic
 * Implemented cross-server replication to show players from other servers
