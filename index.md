@@ -27,27 +27,27 @@ Developing networking features for a custom C++ ECS runtime, enabling scaling to
 
 **PlayStation London Studio** - **Principal Online Programmer**, London, United Kingdom<br>2022 - 2024
 
-Working on a new multiplayer cooperative Game as a Service (GaaS) title for PlayStation in a proprietary C++ engine as a member of the Gameplay Tech team and a resident rollback expert.
+Worked on a new multiplayer cooperative Game as a Service (GaaS) title for PlayStation in a proprietary C++ engine as a member of the Gameplay Tech team and a resident rollback expert.
 
-* Improving rollback functionality to maintain responsive multiplayer gameplay
+* Improved rollback functionality to maintain responsive multiplayer gameplay
 * Empowered gameplay engineers to ensure their code is deterministic, alowing for high-quality multiplayer experience
 * Optimized real-time synchronization protocol to reduce size and improve correctness
 
 **Improbable** - **Senior Unreal Engineer**, London, United Kingdom<br>2020 - 2022
 
-Developing and supporting SpatialGDK for Unreal - an integration for Improbable's SpatialOS multiplayer networking platform.
+Developed and supported SpatialGDK for Unreal - an integration for Improbable's SpatialOS multiplayer networking platform.
 
-* Developing new functionality for the distributed environment
-* Reworking existing functionality to support the evolving product
-* Providing support for customer issues
+* Developed new functionality for the distributed environment
+* Reworked existing functionality to support the evolving product
+* Provided support for customer issues
 
 **Vizor Games** - **Lead Gameplay Developer**, Minsk, Belarus<br>2017 - 2020
 
-* Developing base features and systems, including gameplay systems and networking
-* Managing a growing team of programmers
-* Implementing responsive synchronized movement and animations
-* Communicating with technical and non-technical teams
-* Integrating with internal backend
+* Developed base features and systems, including gameplay systems and networking
+* Managed a growing team of programmers
+* Implemented responsive synchronized movement and animations
+* Communicated with technical and non-technical teams
+* Integrated with internal backend
 
 **GD Forge** - **Lead Developer**, Kazan, Russia<br>2015 - 2017
 
