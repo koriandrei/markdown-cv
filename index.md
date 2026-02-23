@@ -3,7 +3,7 @@ layout: cv
 title: Dmitrii Kozlov
 ---
 # Dmitrii Kozlov
-Game Developer
+Multiplayer Game Developer
 
 ### Email
 <dmitrij.kozlov.h@gmail.com>
@@ -21,7 +21,7 @@ Gameplay and network development for PC and Console games.
 
 Developing networking features for a custom C++ ECS runtime, enabling scaling to high CCU.
 
-* Implemented delta compression for network traffic
+* Identified opportunity for improving bandwidth and implemented delta compression for network traffic
 * Implemented cross-server replication to show players from other servers
 * Continuously explored and maintained server performance
 
